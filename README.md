@@ -1,6 +1,5 @@
-# Algorithm Practice Mainly in Javascript
-run in nodejs 
+# Algorithm Practice in Javascript
+## list on content
+### triangles.js
+### 8queens.js
 
-# practices list
--triangles.js
--8queens.js
